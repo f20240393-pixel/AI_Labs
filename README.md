@@ -6,7 +6,7 @@ Lab notebooks for the AI course, one per topic. Each has the task answers, the c
 |---|---|
 | `agents.ipynb` | Goal-based warehouse agent (BFS) |
 | `bayes_lm.ipynb` | Bayesian networks and n-gram language models |
-| `logic.ipynb` | STRIPS-style planning (`logic.pl` is the optional Prolog part) |
+| `logic.ipynb` | STRIPS-style planning: warehouse and locked-door domains (`logic.pl` is the optional Prolog part) |
 | `neural.ipynb` | XOR, activations, softmax |
 | `search.ipynb` | A* vs BFS |
 
