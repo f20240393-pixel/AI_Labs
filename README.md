@@ -8,10 +8,11 @@ Lab notebooks for the AI course, one per topic. Each has the task answers, the c
 | `bayes_lm.ipynb` | Bayesian networks and n-gram language models |
 | `logic.ipynb` | STRIPS-style planning: warehouse and locked-door domains (`logic.pl` is the optional Prolog part) |
 | `neural.ipynb` | XOR, activations, softmax |
+| `rl.ipynb` | Q-learning, DQN and two-robot collision avoidance |
 | `search.ipynb` | A* vs BFS |
 
 ```
-pip install -r requirements.txt   # torch is only needed for neural.ipynb
+pip install -r requirements.txt   # torch is only needed for neural.ipynb and rl.ipynb
 jupyter notebook
 ```
 
